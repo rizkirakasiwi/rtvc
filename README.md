@@ -1,8 +1,5 @@
 # Real-Time Voice Conversation (RTVC)
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Project Example for Basic real-time voice chat application that demonstrates how to build AI-powered voice conversations using Python. This project showcases integration between OpenAI's AI services, real-time audio streaming, and web technologies to create a seamless voice chat experience.
 
 ## 🎯 Overview
